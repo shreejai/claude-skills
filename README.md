@@ -4,3 +4,4 @@
 
 | [instagram-skill](https://github.com/Jakeschincariol/instagram-agent-skill) | Thirteen Claude skills that run an Instagram account. Free, MIT, no signup, no API key, nothing to connect.
 
+| [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 99 film styles for your coding agent. Pick one, bring your story, and the agent makes the film, entirely in code.
